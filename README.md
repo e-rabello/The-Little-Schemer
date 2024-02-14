@@ -1,6 +1,7 @@
 # The-Little-Schemer
 Code and solutions from the book "The Little Schemer"
-'''
+
+```
 (define atom?
   (lambda (x)
 	  (and (not (pair? x)) (not (null? x)))))
@@ -12,4 +13,4 @@ Code and solutions from the book "The Little Schemer"
 (define add1
   (lambda (n)
     (+ n 1)))
-'''
+```
