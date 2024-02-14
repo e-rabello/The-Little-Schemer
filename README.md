@@ -13,4 +13,4 @@ Code and solutions from the book "The Little Schemer"
 (define add1
   (lambda (n)
     (+ n 1)))
-```scheme
+```
